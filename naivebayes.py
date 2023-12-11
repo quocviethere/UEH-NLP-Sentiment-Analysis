@@ -4,6 +4,7 @@ import matplotlib.pyplot        as plt
 import re
 import seaborn                  as sns
 from collections                import Counter
+import pickle 
 ##########################################################################################
 import nltk
 from nltk.corpus                import stopwords, wordnet
@@ -92,3 +93,7 @@ plt.xticks(fontsize=20)
 plt.yticks(fontsize=20)
 plt.title('Naive Bayes Confusion Matrix',fontsize=20)
 plt.show()
+
+# save the model
+with open('naive_bayes_classifier.pkl', 'wb') as f:
+    pickle.dump(nb_classifier, f)
