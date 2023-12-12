@@ -1,10 +1,15 @@
 # UEH NLP Sentiment Analysis
 This repository contains the code and report for our final project of Natural Language Processing course at UEH.
 
+
+## Demo
 ---
-https://github.com/quocviethere/UEH-NLP-Sentiment-Analysis/assets/96617645/de921c6d-29ef-49c7-af59-f85318dc4771
+
+https://github.com/quocviethere/UEH-NLP-Sentiment-Analysis/assets/96617645/21618084-c0c6-4cc3-b6f9-8c5d7505cd1f
 
 ---
+
+## Results
 
 We use 3 machine learning models including Naive Bayes, Maxent and XGBoost and a pretrained RoBERTa. The result is as follows:
 
