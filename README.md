@@ -4,8 +4,7 @@ This repository contains the code and report for our final project of Natural La
 
 ## Demo
 ---
-
-https://github.com/quocviethere/UEH-NLP-Sentiment-Analysis/assets/96617645/21618084-c0c6-4cc3-b6f9-8c5d7505cd1f
+https://github.com/quocviethere/UEH-NLP-Sentiment-Analysis/assets/96617645/35333080-a802-4e89-8319-c712d70d8972
 
 ---
 
