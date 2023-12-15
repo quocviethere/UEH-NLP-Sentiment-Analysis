@@ -1,5 +1,5 @@
 # UEH NLP Sentiment Analysis
-This repository contains the code and report for our final project of Natural Language Processing course at UEH. For 3 machine learning models including Naive Bayes [[Mosteller and Wallace (1964)](https://www.tandfonline.com/doi/abs/10.1080/01621459.1963.10500849)], Maxent [[Berger et al., 1996](https://dl.acm.org/doi/10.5555/234285.234289)] and XGBoost [[Chen and Guestrin, 2016](https://dl.acm.org/doi/10.1145/2939672.2939785)], we create a custom UI that allows users to directly enter the review and select a model of their choice. We deploy the RoBERTa model [[Liu et al., 2019](https://arxiv.org/abs/1907.11692)] via Gradio.
+This repository contains the code and report for our final project of Natural Language Processing course at UEH. For 3 machine learning models including Naive Bayes [[Mosteller and Wallace (1964)](https://www.tandfonline.com/doi/abs/10.1080/01621459.1963.10500849)], Maxent [[Berger et al., 1996](https://dl.acm.org/doi/10.5555/234285.234289)] and XGBoost [[Chen and Guestrin, 2016](https://dl.acm.org/doi/10.1145/2939672.2939785)], we create a custom UI that allows users to directly enter the review and select a machine learning model of their choice. We deploy the RoBERTa model [[Liu et al., 2019](https://arxiv.org/abs/1907.11692)] via Gradio and you can try experiment with it on our website [here](ueh-nlp.github.io).
 
 
 ## Demo
@@ -38,6 +38,8 @@ The Colab Notebook is also available:
 We use 3 machine learning models including Naive Bayes, Maxent and XGBoost and a pretrained RoBERTa. The result is as follows:
 
 <img width="948" alt="Screen Shot 2023-12-12 at 20 47 19" src="https://github.com/quocviethere/UEH-NLP-Sentiment-Analysis/assets/96617645/b2933c3e-f914-44b6-abba-a338d5a9181b">
+
+For more detailed results as well as model details, check out our full report here.
 
 ---
 
