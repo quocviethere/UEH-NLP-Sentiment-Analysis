@@ -37,7 +37,7 @@ The Colab Notebook is also available:
 
 We use 3 machine learning models including Naive Bayes, Maxent and XGBoost and a pretrained RoBERTa. The result is as follows:
 
-<img width="948" alt="Screen Shot 2023-12-12 at 20 47 19" src="https://github.com/quocviethere/UEH-NLP-Sentiment-Analysis/assets/96617645/b2933c3e-f914-44b6-abba-a338d5a9181b">
+<img width="1255" alt="Screen Shot 2023-12-15 at 10 28 22" src="https://github.com/quocviethere/UEH-NLP-Sentiment-Analysis/assets/96617645/395ba14c-4125-4c32-ab07-b5ab73af7f93">
 
 For more detailed results as well as model details, check out our full report here.
 
