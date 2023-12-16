@@ -21,7 +21,9 @@ We provide the code for 3 models.
 **Example usage:**
 
 ```
-python maxent.py
+$ python naivebayes.py
+$ python maxent.py
+$ python xgboostclassifier.py
 ```
 
 Please do note that you need to specify the dataset path correctly for the code to work. To run the UI, simply use:
