@@ -28,7 +28,7 @@ from sklearn.model_selection    import train_test_split
 from preprocess                 import preprocess_text
 ##########################################################################################
 
-df = pd.read_csv('/Users/quocviet/Desktop/UEH_NLP/data/shopee_reviews.csv')
+df = pd.read_csv('/Users/quocviet/Documents/UEH-NLP-Sentiment-Analysis/data/shopee_reviews.csv')
 
 df['preprocess_sentence'] = df['content'].apply(preprocess_text)
 
