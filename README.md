@@ -44,7 +44,7 @@ We use 3 machine learning models including Naive Bayes, Maxent and XGBoost and a
 
 <img width="1255" alt="Screen Shot 2023-12-15 at 10 28 22" src="https://github.com/quocviethere/UEH-NLP-Sentiment-Analysis/assets/96617645/395ba14c-4125-4c32-ab07-b5ab73af7f93">
 
-For more detailed results as well as model details, check out our full report here.
+For more detailed results as well as model details, check out our full report [here](https://ueh-nlp.github.io/report.pdf).
 
 ---
 
